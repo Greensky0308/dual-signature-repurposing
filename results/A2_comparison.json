@@ -1,0 +1,38 @@
+{
+  "HCC": {
+    "geo": "GSE14520",
+    "n_common_probes": 22268,
+    "deg_welch": 1400,
+    "deg_limma": 1400,
+    "deg_overlap": 1400,
+    "deg_jaccard": 1.0,
+    "log2fc_r": 1.0,
+    "max_abs_diff": 1.509903313490213e-14,
+    "padj_spearman": 0.9999795825005875,
+    "sign_concordance": 1.0,
+    "sig_up_overlap": 150,
+    "sig_up_welch": 150,
+    "sig_up_limma": 150,
+    "sig_down_overlap": 150,
+    "sig_down_welch": 150,
+    "sig_down_limma": 150
+  },
+  "HF": {
+    "geo": "GSE57345",
+    "n_common_probes": 33297,
+    "deg_welch": 49,
+    "deg_limma": 49,
+    "deg_overlap": 49,
+    "deg_jaccard": 1.0,
+    "log2fc_r": 1.0,
+    "max_abs_diff": 1.0658141036401503e-14,
+    "padj_spearman": 0.9997771535722574,
+    "sign_concordance": 1.0,
+    "sig_up_overlap": 25,
+    "sig_up_welch": 25,
+    "sig_up_limma": 25,
+    "sig_down_overlap": 23,
+    "sig_down_welch": 23,
+    "sig_down_limma": 23
+  }
+}

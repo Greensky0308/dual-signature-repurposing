@@ -1,0 +1,86 @@
+{
+  "baseline_dual": 867,
+  "n_annotated": 2947,
+  "sd_hcc_profile": 0.4871255159378052,
+  "sd_hf_profile": 0.2967621684074402,
+  "size_matched_hcc": {
+    "k_up": 21,
+    "k_dn": 19,
+    "n_rep": 200,
+    "dual_mean": 842.455,
+    "dual_sd": 71.34732073371359,
+    "dual_q025": 705.7,
+    "dual_q975": 981.025,
+    "spearman_vs_full_hcc_mean": 0.8312743044005023,
+    "spearman_vs_full_hcc_q025": 0.7359418327138322
+  },
+  "size_matched_cg_ranks": {
+    "peruvoside": {
+      "base_rank": 16.0,
+      "matched_median_rank": 21.0,
+      "matched_q025": 8.0,
+      "matched_q975": 137.10000000000002
+    },
+    "sarmentogenin": {
+      "base_rank": 49.0,
+      "matched_median_rank": 73.5,
+      "matched_q025": 13.975000000000001,
+      "matched_q975": 1326.900000000001
+    },
+    "strophanthidin": {
+      "base_rank": 184.0,
+      "matched_median_rank": 236.0,
+      "matched_q025": 35.0,
+      "matched_q975": 1413.3000000000006
+    }
+  },
+  "noise_curve": {
+    "10": {
+      "mean_inter_rep_sd": 0.48669397830963135,
+      "observed_sd": 0.4871255159378052,
+      "noise_to_signal": 0.9991140961647034
+    },
+    "20": {
+      "mean_inter_rep_sd": 0.33910641074180603,
+      "observed_sd": 0.4871255159378052,
+      "noise_to_signal": 0.6961376667022705
+    },
+    "40": {
+      "mean_inter_rep_sd": 0.22697336971759796,
+      "observed_sd": 0.4871255159378052,
+      "noise_to_signal": 0.4659443199634552
+    },
+    "80": {
+      "mean_inter_rep_sd": 0.14687269926071167,
+      "observed_sd": 0.4871255159378052,
+      "noise_to_signal": 0.30150893330574036
+    },
+    "150": {
+      "mean_inter_rep_sd": 0.08542638272047043,
+      "observed_sd": 0.4871255159378052,
+      "noise_to_signal": 0.1753683239221573
+    }
+  },
+  "noise_hf_halfsize": {
+    "k": 19,
+    "mean_inter_rep_sd": 0.23941242694854736,
+    "observed_sd": 0.2967621684074402,
+    "noise_to_signal": 0.8067484498023987
+  },
+  "split_half_HCC_full": {
+    "median_r": 0.8991299132929074,
+    "spearman_brown": 0.9468861551391068,
+    "n_up": 141,
+    "n_down": 138
+  },
+  "split_half_HF_full": {
+    "median_r": 0.18583054267494065,
+    "spearman_brown": 0.3134182990109099,
+    "n_up": 21,
+    "n_down": 19
+  },
+  "split_half_HCC_sizematched_40": {
+    "median_r": 0.5641874317691047,
+    "spearman_brown": 0.7213801834211386
+  }
+}

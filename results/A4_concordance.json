@@ -1,0 +1,54 @@
+{
+  "HCC signature -> GSE76427 (tumour vs adjacent)": {
+    "up": {
+      "n_present": 144,
+      "n_concordant": 136,
+      "concordance": 0.9444444444444444,
+      "binom_p": 1.7907046784042544e-31,
+      "median_t": 6.76021638021062,
+      "geneset_p": 1.2067078716407129e-48
+    },
+    "down": {
+      "n_present": 144,
+      "n_concordant": 144,
+      "concordance": 1.0,
+      "binom_p": 4.484155085839415e-44,
+      "median_t": -7.9459374854728395,
+      "geneset_p": 1.423622735364295e-80
+    },
+    "denovo_up": {
+      "overlap": 31,
+      "jaccard": 0.14285714285714285
+    },
+    "denovo_down": {
+      "overlap": 63,
+      "jaccard": 0.26582278481012656
+    }
+  },
+  "HF signature -> GSE141910 (DCM vs non-failing donor)": {
+    "up": {
+      "n_present": 25,
+      "n_concordant": 25,
+      "concordance": 1.0,
+      "binom_p": 2.9802322387695312e-08,
+      "median_t": 15.9216151804628,
+      "geneset_p": 9.828415905351525e-16
+    },
+    "down": {
+      "n_present": 20,
+      "n_concordant": 20,
+      "concordance": 1.0,
+      "binom_p": 9.5367431640625e-07,
+      "median_t": -17.3182670678855,
+      "geneset_p": 2.5718756928132752e-14
+    },
+    "denovo_up": {
+      "overlap": 5,
+      "jaccard": 0.1111111111111111
+    },
+    "denovo_down": {
+      "overlap": 8,
+      "jaccard": 0.21052631578947367
+    }
+  }
+}

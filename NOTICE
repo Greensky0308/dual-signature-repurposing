@@ -1,0 +1,14 @@
+Dual-signature connectivity mapping — analysis pipeline
+Copyright 2026 Greensky0308
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+-------------------------------------------------------------------------------
+Third-party data
+
+The analysis reads the Broad Drug Repurposing Hub (release 2020-03-24), the GEO
+series matrices and the LINCS L1000 release. None of these is redistributed with
+this repository: the Hub is provided for non-commercial use only and is obtained
+separately (see data/README.md), and the GEO and LINCS inputs are downloaded from
+their public sources. Cite the Hub as: Corsello SM, et al. Nature Medicine
+2017;23(4):405-408. doi:10.1038/nm.4306

@@ -1,0 +1,225 @@
+true_name,hcc_score,cvd_score,clinical_phase,moa,target,disease_area,indication
+thiomersal,0.8750789,0.6019889,Launched,other antibiotic,OXCT1,infectious disease,preservative
+hydrochlorothiazide,0.95895827,0.3458451,Launched,thiazide diuretic,CA1|CA12|CA2|CA4|CA9|KCNMA1|SLC12A3,cardiology,hypertension|congestive heart failure
+disulfiram,0.38421038,0.30449292,Launched,aldehyde dehydrogenase inhibitor|DNA methyltransferase inhibitor|TRPV agonist,ALDH2|DBH,neurology/psychiatry,abstinence from alcohol
+alcuronium,0.0056723133,0.29047048,Launched,muscle relaxant,CHRM1|CHRM2|CHRM3|CHRM4|CHRNA7,neurology/psychiatry,muscle relaxant
+belinostat,0.7380085,0.2825306,Launched,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,hematologic malignancy,peripheral T-cell lymphoma (PTCL)
+ritonavir,0.07508946,0.26217288,Launched,HIV protease inhibitor,CYP1A2|CYP2B6|CYP2C19|CYP2C8|CYP2C9|CYP2D6|CYP2E1|CYP3A4|CYP3A5|CYP3A7,infectious disease,human immunodeficiency virus (HIV-1)
+fadrozole,0.50816,0.26141846,Launched,aromatase inhibitor,CYP11B1|CYP19A1,oncology,breast cancer
+vindesine,0.039232846,0.25515866,Launched,tubulin polymerization inhibitor,TUBB|TUBB1,oncology,breast cancer|non-small cell lung cancer (NSCLC)|melanoma
+prednicarbate,0.07034559,0.24237135,Launched,phospholipase activator,PLA2G1B,dermatology|ophthalmology|neurology/psychiatry,eczema|contact dermatitis|itching
+ciclopirox,0.536425,0.24082708,Launched,membrane integrity inhibitor,ATP1A1,infectious disease,onychomycosis
+vinblastine,0.09727068,0.22577116,Launched,microtubule inhibitor|tubulin polymerization inhibitor,JUN|TUBA1A|TUBB|TUBD1|TUBE1|TUBG1,hematologic malignancy|infectious disease|oncology,Hodgkin's lymphoma|true histiocytic lymphoma (THL)|mycosis|small lymphocytic lymphoma (SLL)|testicular carcinoma|Kaposi sarcoma
+thiamine,0.0033987984,0.22135995,Launched,vitamin B,SLC19A2|SLC19A3|TPK1,metabolism,thiamine deficiency
+megestrol-acetate,0.056547116,0.22119668,Launched,progesterone receptor agonist,NR3C1|PGR,neurology/psychiatry|endocrinology,anorexia|cachexia
+mebendazole,0.10337153,0.20718104,Launched,tubulin polymerization inhibitor,TUBA1A|TUBB|TUBB4B,infectious disease,pinworm|whipworm|hookworm|ascariasis
+halcinonide,0.019209318,0.20629887,Launched,glucocorticoid receptor agonist,NR3C1,dermatology,corticosteroid-responsive dermatoses
+methyldopa,0.15305972,0.18793443,Launched,adrenergic receptor agonist,ADRA2A|ADRA2B|ADRA2C|DDC,cardiology,hypertension
+ingenol,0.01705265,0.18781623,Launched,PKC activator,PRKCD|PRKCE,dermatology,keratosis
+mometasone,0.19167176,0.18387167,Launched,glucocorticoid receptor agonist,NR3C1,dermatology,corticosteroid-responsive dermatoses
+flumethasone,0.35561317,0.17871682,Launched,glucocorticoid receptor agonist,NR3C1|PLA2G1B,otolaryngology|infectious disease|dermatology,otitis|ear infections|corticosteroid-responsive dermatoses
+sunitinib,0.19250098,0.17803428,Launched,FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,CSF1R|FGFR1|FLT1|FLT3|FLT4|KDR|KIT|PDGFRA|PDGFRB|RET,oncology,gastrointestinal stromal tumors (GIST)|renal cell carcinoma (RCC)|neuroendocrine tumors of pancreatic origin (PNET)
+vincristine,0.075507514,0.17365006,Launched,tubulin polymerization inhibitor,TUBA4A|TUBB,hematologic malignancy,acute lymphoblastic leukemia (ALL)
+medrysone,0.05630064,0.17076555,Launched,glucocorticoid receptor agonist,NR3C1,ophthalmology,conjunctivitis|episcleritis
+isoniazid,0.2604809,0.16415522,Launched,FABI inhibitor,CYP1A2|CYP2C19|CYP2C8|CYP2E1|CYP3A4,infectious disease,tuberculosis
+neomycin,0.42911717,0.16294438,Launched,bacterial 30S ribosomal subunit inhibitor,CXCR4,infectious disease|gastroenterology,first-aid antibiotic|hepatic encephalopathy (HE)|intra-abdominal infections
+desoximetasone,0.20006244,0.16171217,Launched,glucocorticoid receptor agonist,NR3C1|PLA2G1B,dermatology,corticosteroid-responsive dermatoses
+nisoldipine,0.33842996,0.16035238,Launched,calcium channel blocker,CACNA1C|CACNA1D|CACNA1F|CACNA1S,cardiology,hypertension
+mitoxantrone,0.9080619,0.15454783,Launched,topoisomerase inhibitor,TOP2A,neurology/psychiatry|oncology|hematologic malignancy,multiple sclerosis|prostate cancer|acute myeloid leukemia (AML)
+indinavir,0.031974897,0.1504852,Launched,HIV protease inhibitor,CYP3A4|CYP3A5|CYP3A7,infectious disease,human immunodeficiency virus (HIV-1)
+darifenacin,0.13081244,0.14984092,Launched,acetylcholine receptor antagonist,CHRM1|CHRM2|CHRM3|CHRM4|CHRM5,urology,urinary incontinence
+medroxyprogesterone,0.053582758,0.14379399,Launched,progesterone receptor agonist,PGR,endocrinology,contraceptive
+glycopyrrolate,0.042263784,0.14301881,Launched,acetylcholine receptor antagonist,CHRM1|CHRM2|CHRM3|CHRM4|CHRM5,gastroenterology,peptic ulcer disease (PUD)
+niclosamide,0.29433414,0.14079213,Launched,DNA replication inhibitor|STAT inhibitor,STAT3,infectious disease,tapeworm
+acetylcholine,0.014330864,0.13804895,Launched,acetylcholine receptor agonist,ACHE|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|CHRNA2,neurology/psychiatry|gastroenterology|pulmonary,drowsiness|fatigue|headache|indigestion|chest congestion
+xylazine,0.044334628,0.13662021,Launched,adrenergic receptor agonist,ADRA2A|ADRA2B|ADRA2C,neurology/psychiatry,anesthetic
+hydrocortisone,0.029069245,0.13494816,Launched,glucocorticoid receptor agonist,ANXA1|NOS2|NR3C1|NR3C2,dermatology|neurology/psychiatry,eczema|psoriasis|seborrheic dermatitis|itching
+amperozide,0.20136829,0.12863928,Launched,dopamine receptor antagonist,FAAH|HTR2A,neurology/psychiatry,psychosis
+thiostrepton,0.37914395,0.1279158,Launched,FOXM1 inhibitor|protein synthesis inhibitor,FOXM1,obstetrics/gynecology,mastitis
+methylprednisolone,0.20444676,0.12480348,Launched,glucocorticoid receptor agonist,NR3C1,endocrinology|rheumatology|dermatology|infectious disease|allergy|hematology|neurology/psychiatry|gastroenterology,hypercalcemia|thyroiditis|ankylosing spondylitis|bursitis|osteoarthritis|psoriatic arthritis|seborrheic dermatitis|mycosis|allergic rhinitis|psoriasis|anemia|multiple sclerosis|ulcerative colitis|enteritis
+ketorolac,0.09997361,0.12399453,Launched,cyclooxygenase inhibitor,PTGS1|PTGS2,neurology/psychiatry,pain relief
+epirubicin,1.4591739,0.12309837,Launched,topoisomerase inhibitor,CHD1|TOP2A,oncology,breast cancer
+vorinostat,0.2593434,0.12219487,Launched,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC5|HDAC6|HDAC8|HDAC9,hematologic malignancy,cutaneous T-cell lymphoma (CTCL)
+allopurinol,0.15337083,0.122193664,Launched,xanthine oxidase inhibitor,XDH,rheumatology|urology,gout|kidney stones
+felbinac,0.43248802,0.121839225,Launched,cyclooxygenase inhibitor,CTSL,rheumatology|neurology/psychiatry,rheumatoid arthritis|muscle pain
+fluorometholone,0.07994528,0.120636836,Launched,glucocorticoid receptor agonist,NR3C1,ophthalmology,eye inflammation
+carbachol,0.56828713,0.11726755,Launched,cholinergic receptor agonist,CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|CHRNA2,ophthalmology,intraocular pressure
+norgestrel,0.11606539,0.116632566,Launched,progesterone receptor agonist,AR|ESR1|PGR|SRD5A1,endocrinology,contraceptive
+diacerein,0.45764643,0.11490626,Launched,interleukin inhibitor,IL1B,rheumatology,osteoarthritis
+clomethiazole,0.14091401,0.113268316,Launched,GABA receptor antagonist|GABA receptor modulator,GABRA1,neurology/psychiatry,Parkinson's Disease|sedative|muscle relaxant
+budesonide,0.01267012,0.11181314,Launched,glucocorticoid receptor agonist,NR3C1,gastroenterology,Crohn's disease
+tamibarotene,0.20076829,0.11130077,Launched,retinoid receptor agonist,RARA|RARB,hematologic malignancy,acute promyelocytic leukemia (APL)
+diosmin,0.016757108,0.11108392,Launched,aryl hydrocarbon receptor agonist|capillary stabilizing agent,AHR,cardiology|hematology|dermatology,chronic venous insufficiency (CVI)|edema|deep vein thrombosis (DVT)|statis dermatitis|heavy leg syndrome
+emedastine,0.1570318,0.11038268,Launched,histamine receptor antagonist,HRH1,ophthalmology,conjunctivitis
+carbimazole,0.3943288,0.10855155,Launched,antithyroid agent,TPO,endocrinology,hyperthyroidism
+tetracaine,0.09718417,0.10809025,Launched,membrane integrity inhibitor,SCN10A|SCN11A|SCN1A|SCN2A|SCN3A|SCN4A|SCN5A|SCN7A|SCN8A|SCN9A,neurology/psychiatry,anesthetic
+fluticasone-propionate,0.029177038,0.10703996,Launched,glucocorticoid receptor agonist,NR3C1|NR3C2|PGR|PLA2G4A,dermatology,corticosteroid-responsive dermatoses
+hydrocortisone-acetate,0.2709006,0.10699195,Launched,glucocorticoid receptor agonist,NR3C1,dermatology,corticosteroid-responsive dermatoses
+fenoprofen,0.2690724,0.10689238,Launched,prostaglandin inhibitor,PTGS1|SLC5A8,rheumatology,rheumatoid arthritis|osteoarthritis
+profenamine,0.04104788,0.10506532,Launched,butyrylcholinesterase inhibitor|cholinergic receptor antagonist,CHRM1,neurology/psychiatry,Parkinson's Disease
+chloroxine,0.30904794,0.10467306,Launched,opioid receptor antagonist,OPRK1,gastroenterology|infectious disease|dermatology,diarrhea|inflammatory bowel disease|giardiasis|dandruff
+panobinostat,0.7105467,0.103001535,Launched,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC6|HDAC7|HDAC8|HDAC9,hematologic malignancy,multiple myeloma
+probucol,0.009679237,0.099663876,Launched,atherogenesis inhibitor,ABCA1|ABCB11|CES1,cardiology,coronary artery disease (CAD)
+mycophenolate-mofetil,0.3716741,0.09955057,Launched,dehydrogenase inhibitor|inositol monophosphatase inhibitor,IMPDH1|IMPDH2,transplant,organ rejection
+cyanocobalamin,0.021551982,0.09916046,Launched,methylmalonyl CoA mutase stimulant|vitamin B,MUT,hematology|infectious disease|gastroenterology,anemia|fish tapeworm infestation|celiac disease
+timolol,0.037415102,0.098622374,Launched,adrenergic receptor antagonist,ADRB1|ADRB2,ophthalmology,ocular hypertension|glaucoma
+isoxsuprine,0.04824301,0.098597005,Launched,adrenergic receptor agonist,ADRB2,rheumatology|cardiology,Raynaud's disease|arteriosclerosis|Buerger's disease
+triclosan,0.3262908,0.09687555,Launched,antibacterial agent,DNMT1,infectious disease,first-aid antiseptic
+aminocaproic-acid,0.19450977,0.09582485,Launched,plasminogen activator inhibitor,LPA|PLAT|PLG,hematology,fibrinolytic bleeding
+medetomidine,0.16224729,0.094953895,Launched,adrenergic receptor agonist,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C,neurology/psychiatry,sedative
+loteprednol,0.3385545,0.09477396,Launched,glucocorticoid receptor agonist|phospholipase inhibitor,NR3C1,ophthalmology,conjunctivitis
+doxorubicin,0.99564564,0.09463215,Launched,topoisomerase inhibitor,TOP2A,hematologic malignancy|oncology,acute lymphoblastic leukemia (ALL)|acute myeloid leukemia (AML)|Wilm's tumor|breast cancer|ovarian cancer|Hodgkin's lymphoma|bladder cancer|multiple myeloma
+chlormadinone-acetate,0.16043264,0.09291251,Launched,5 alpha reductase inhibitor,PGR,endocrinology,hypermenorrhea|amenorrhea|oligomenorrhea|polymenorrhea
+sonidegib,0.14798547,0.092907265,Launched,smoothened receptor antagonist,SMO,oncology,basal cell carcinoma (BCC)
+menadione,0.36441013,0.09130736,Launched,mitochondrial DNA polymerase inhibitor|phosphatase inhibitor,AOX1|BGLAP|F10|F2|F7|F9|GGCX|NQO1|NQO2|PROC|PROS1|PROZ|VKORC1|VKORC1L1,gastroenterology|neurology/psychiatry|dermatology|rheumatology,ulcerative colitis|diarrhea|headache|varicose veins|rheumatoid arthritis
+carbamazepine,0.069570825,0.09005533,Launched,carboxamide antiepileptic,SCN10A|SCN11A|SCN1A|SCN2A|SCN3A|SCN4A|SCN5A|SCN7A|SCN8A|SCN9A,neurology/psychiatry,seizures
+metixene,0.0014440678,0.08772308,Launched,acetylcholine receptor antagonist,CHRM5,neurology/psychiatry,Parkinson's Disease
+adiphenine,0.36300734,0.08548418,Launched,acetylcholine receptor antagonist,CHRNA1,neurology/psychiatry,spasms
+vinpocetine,0.03162431,0.085400105,Launched,phosphodiesterase inhibitor|sodium channel blocker,PDE1A|PDE1C,neurology/psychiatry,stroke|senile dementia
+ropivacaine,0.037629403,0.082588166,Launched,sodium channel blocker,SCN10A,neurology/psychiatry,anesthetic
+piribedil,0.07925838,0.08252219,Launched,dopamine receptor agonist,ADRA1A|ADRA2A|ADRA2C|DRD2|DRD3|DRD4|HTR1A|HTR2B,neurology/psychiatry,Parkinson's Disease|dizziness
+riboflavin,0.11678616,0.08176242,Launched,vitamin B,BLVRB|RFK,gastroenterology,jaundice
+calcifediol,0.1696649,0.08152421,Launched,vitamin D receptor agonist,VDR,endocrinology,hyperparathyroidism
+ascorbic-acid,0.22671524,0.08117663,Launched,antioxidant,SLC23A1|SLC23A2,endocrinology,scurvy
+folic-acid,0.004510369,0.079431646,Launched,folate receptor ligand,FOLR2|FOLR3|SLC19A1|SLC46A1,hematology,megaloblastic anemia
+progesterone,0.1113759,0.07858823,Launched,progesterone receptor agonist,CATSPER1|CATSPER2|CATSPER3|CATSPER4|CYP17A1|ESR1|NR3C2|OPRK1|PGR|TRPC5,obstetrics/gynecology|endocrinology,infertility|amenorrhea
+calcipotriol,0.10482916,0.078072175,Launched,vitamin D receptor agonist,VDR,dermatology,psoriasis
+latanoprost,0.31190175,0.07766962,Launched,prostanoid receptor agonist,PTGFR,ophthalmology,ocular hypertension|glaucoma
+cerulenin,0.28156298,0.07755789,Launched,fatty acid synthase inhibitor,FASN,infectious disease,fungal infection
+betamethasone,0.041732524,0.07687576,Launched,glucocorticoid receptor agonist,NR3C1,dermatology,corticosteroid-responsive dermatoses
+molsidomine,0.024557535,0.07651411,Launched,guanylate cyclase stimulant,GUCY1A3,cardiology,coronary artery disease (CAD)
+pargyline,0.06846194,0.07496733,Launched,monoamine oxidase inhibitor,MAOA|MAOB,cardiology,hypertension
+amsacrine,0.919483,0.07458624,Launched,topoisomerase inhibitor,KCNH2|TOP2A,hematologic malignancy,acute lymphoblastic leukemia (ALL)
+protriptyline,0.018054307,0.07308793,Launched,tricyclic antidepressant,SLC6A2|SLC6A4,neurology/psychiatry,depression
+balsalazide,0.12160707,0.069312595,Launched,cyclooxygenase inhibitor,ALOX5|PPARG|PTGS1|PTGS2,gastroenterology,ulcerative colitis
+dinoprost,0.12792873,0.06879331,Launched,prostacyclin analog,PTGDR|PTGDR2|PTGER1|PTGER2|PTGER3|PTGER4|PTGFR|TBXA2R,obstetrics/gynecology,labor induction
+chloramphenicol,0.343055,0.06718509,Launched,bacterial 50S ribosomal subunit inhibitor,CD55,infectious disease|endocrinology,meningitis|fever|cholera
+didanosine,0.095725335,0.06687505,Launched,nucleoside reverse transcriptase inhibitor,PNP,infectious disease,human immunodeficiency virus (HIV-1)
+chlorpromazine,0.04745546,0.06676027,Launched,dopamine receptor antagonist,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C|CALM1|CHRM1|CHRM3|DRD1|DRD2|DRD3|DRD4|DRD5|HRH1|HRH4|HTR1A|HTR2A|HTR2B|HTR2C|HTR6|HTR7|KCNH2|ORM1|ORM2|SMPD1|TRPC5,neurology/psychiatry|gastroenterology|hematology|infectious disease,schizophrenia|nausea|vomiting|acute intermittent porphyria (AIP)|tetanus
+chloropyramine,0.0040776655,0.06604248,Launched,histamine receptor antagonist,HRH1,cardiology|ophthalmology|allergy|pulmonary,edema|conjunctivitis|allergic rhinitis|asthma
+beclomethasone-dipropionate,0.044422634,0.06527154,Launched,glucocorticoid receptor agonist,GPR97|NR3C1,allergy,allergic rhinitis
+estriol,0.0691545,0.062222824,Launched,estrogen receptor agonist,ESR1|ESR2,endocrinology|obstetrics/gynecology|infectious disease,menopause|vaginal atrophy|urinary tract infections
+gabexate,0.12111962,0.06196837,Launched,serine protease inhibitor,PRSS1|TPSAB1,gastroenterology,pancreatitis
+azaperone,0.071802765,0.06131552,Launched,dopamine receptor antagonist,DRD2|DRD3,neurology/psychiatry,sedative
+pyrvinium-pamoate,0.5973723,0.060582623,Launched,androgen receptor antagonist,AR,infectious disease,pinworm
+prednisone,0.022427576,0.059976373,Launched,glucocorticoid receptor agonist,HSD11B1|NR3C1,endocrinology|rheumatology|infectious disease|dermatology|ophthalmology|hematology|gastroenterology|neurology/psychiatry,congenital adrenal hyperplasia|hypercalcemia|rheumatoid arthritis|psoriatic arthritis|ankylosing spondylitis|bursitis|osteoarthritis|epicondylitis|dermatomyositis|psoriasis|mycosis|conjunctivitis|anemia|ulcerative colitis|enteritis|multiple sclerosis|meningitis
+adapalene,0.03453379,0.05874665,Launched,retinoid receptor agonist,RARA|RARB|RARG|RXRA|RXRB|RXRG,dermatology,acne vulgaris (AV)
+finasteride,0.044680294,0.058401674,Launched,5 alpha reductase inhibitor,AKR1D1|SRD5A1|SRD5A2,endocrinology,androgenetic alopecia
+cortisone,0.08304351,0.057908606,Launched,glucocorticoid receptor agonist,NR3C1,gastroenterology|rheumatology|dermatology,ulcerative colitis|rheumatoid arthritis|psoriasis|joint inflammation|eczema
+pizotifen,0.0050807046,0.056909252,Launched,serotonin receptor antagonist,HTR1A|HTR2A|HTR2C,neurology/psychiatry,migraine headache
+donepezil,0.023317665,0.056590173,Launched,acetylcholinesterase inhibitor,ACHE,neurology/psychiatry,Alzheimer's disease
+digitoxin,0.32661945,0.056261525,Launched,ATPase inhibitor,ATP1A1|ATP1A2|ATP1A3|ATP1A4|ATP1B1|ATP1B2|ATP1B3|FXYD2,cardiology,congestive heart failure|cardiac arrythmia
+mexiletine,0.055312052,0.056242533,Launched,sodium channel blocker,PLAU|SCN4A|SCN5A,cardiology,ventricular arrhythmias|ventricular tachycardia (VT)
+cyclophosphamide,0.11338278,0.055464923,Launched,DNA alkylating agent,CYP2A6|CYP2B6|CYP2C18|CYP2C19|CYP2C8|CYP2C9|CYP2D6|CYP3A4|CYP3A5|CYP3A7,hematologic malignancy|oncology,Hodgkin's lymphoma|small lymphocytic lymphoma (SLL)|breast cancer|neuroblastoma|Burkitt's lymphoma|multiple myeloma|chronic lymphocytic leukemia (CLL)|acute myeloid leukemia (AML)|acute lymphoblastic leukemia (ALL)|chronic myeloid leukemia (CML)|true histiocytic lymphoma (THL)|retinoblastoma|ovarian cancer
+treprostinil,0.13132074,0.05374553,Launched,prostanoid receptor agonist,P2RY12|PPARD|PTGIR,pulmonary,pulmonary arterial hypertension (PAH)
+selegiline,0.0843157,0.053487115,Launched,monoamine oxidase inhibitor,MAOA|MAOB,neurology/psychiatry,Parkinson's Disease
+lacidipine,0.3485238,0.053208113,Launched,calcium channel blocker,CACNA1C,cardiology,hypertension
+acetohydroxamic-acid,0.06279575,0.051874153,Launched,urease inhibitor,MMP12,infectious disease,urinary tract infections
+rivastigmine,0.11930478,0.051786788,Launched,acetylcholinesterase inhibitor,ACHE|BCHE,neurology/psychiatry,Alzheimer's disease|Parkinson's Disease|senile dementia
+etacrynic-acid,0.036234967,0.051653713,Launched,sodium/potassium/chloride transporter inhibitor,ATP1A1|SLC12A1,cardiology|gastroenterology|nephrology|rheumatology,hypertension|congestive heart failure|edema|hepatic cirrhosis|chronic renal failure|nephrotic syndrome
+bethanechol,0.075760886,0.05159123,Launched,acetylcholine receptor agonist,CHRM1|CHRM2|CHRM3|CHRM4,urology,urinary retention
+guanaben-acetate,0.11536239,0.050421298,Launched,adrenergic receptor agonist,ADRA2A|ADRA2B|ADRA2C,cardiology,hypertension
+haloperidol,0.10508298,0.04948958,Launched,dopamine receptor antagonist,DRD1|DRD2|DRD3|DRD4|DRD5|GRIN2B|HRH1|HTR1A|HTR1D|HTR2A|HTR2B|HTR7|KCNH1,neurology/psychiatry,schizophrenia|Tourette's disorder
+pentamidine,0.17511241,0.048734926,Launched,anti-pneumocystis agent,TRDMT1,infectious disease,pneumonia
+loperamide,0.05993431,0.048728228,Launched,opioid receptor agonist,CACNA1A|CALM1|OPRD1|OPRK1|OPRM1|POMC,gastroenterology,diarrhea
+amiodarone,0.15159103,0.048570737,Launched,potassium channel blocker,ADRB1|CACNA1H|CACNA2D2|KCNA7|KCNH2,cardiology,ventricular arrhythmias
+nabumetone,0.03426566,0.04790789,Launched,cyclooxygenase inhibitor,PTGS1|PTGS2,rheumatology,rheumatoid arthritis|osteoarthritis
+levomepromazine,0.1254102,0.0475521,Launched,dopamine receptor antagonist,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|DRD1|DRD2|DRD3|DRD4|DRD5|HRH1|HTR2A|HTR2C,neurology/psychiatry|gastroenterology,psychosis|schizophrenia|bipolar disorder|nausea|insomnia
+docetaxel,0.08791357,0.046295777,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,breast cancer|non-small cell lung cancer (NSCLC)|prostate cancer|gastric adenocarcinoma|head and neck squamous cell carcinoma (HNSCC)
+betaxolol,0.008976087,0.046021163,Launched,adrenergic receptor antagonist,ADRB1|ADRB2,ophthalmology,intraocular pressure|glaucoma|ocular hypertension
+celecoxib,0.031014007,0.04585807,Launched,cyclooxygenase inhibitor,CA12|PDPK1|PTGS2,rheumatology|endocrinology,osteoarthritis|rheumatoid arthritis|ankylosing spondylitis|primary dysmenorrhea (PD)
+demecarium,0.09926918,0.04570896,Launched,acetylcholinesterase inhibitor,ACHE|BCHE,ophthalmology,intraocular pressure|glaucoma
+clotrimazole,0.43323117,0.045691043,Launched,cytochrome P450 inhibitor|imidazoline receptor ligand,CYP3A4|KCNN4|NR1I2|NR1I3|TRPM2|TRPM4|TRPM8,infectious disease,vulvovaginal candidiasis|oropharyngeal candidiasis
+acenocoumarol,0.41159904,0.04534962,Launched,vitamin K antagonist,VKORC1,hematology,deep vein thrombosis (DVT)
+ubenimex,0.13842088,0.045126837,Launched,leukotriene synthesis inhibitor,LTA4H|RNPEP,hematologic malignancy,acute myeloid leukemia (AML)
+letrozole,0.079198994,0.043972403,Launched,aromatase inhibitor,CYP19A1,oncology,breast cancer
+carbidopa,0.20019554,0.043190077,Launched,aromatic L-amino acid decarboxylase inhibitor,DDC,neurology/psychiatry,Parkinson's Disease
+omeprazole,0.015764803,0.041521177,Launched,ATPase inhibitor,ATP4A|CLCN2,gastroenterology,heartburn
+alimemazine,0.047349136,0.041186333,Launched,histamine receptor agonist|histamine receptor antagonist,HRH1,neurology/psychiatry|allergy|pulmonary,sedative|urticaria|itching|cough suppressant
+artemether,0.22412187,0.040586367,Launched,antimalarial agent,ATP1A1,infectious disease,malaria
+homatropine,0.02385888,0.03921902,Launched,acetylcholine receptor antagonist,CHRM1,ophthalmology,uveal tract inflammation|pupil dilation
+clofarabine,0.4246286,0.039010428,Launched,ribonucleotide reductase inhibitor,POLA1|POLD1|POLE|RRM1|RRM2|RRM2B,hematologic malignancy,acute lymphoblastic leukemia (ALL)
+nortriptyline,0.014186781,0.03865672,Launched,tricyclic antidepressant,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C|ADRB1|ADRB2|ADRB3|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|DRD2|HRH1|HTR1A|HTR2A|HTR2C|HTR6|KCNJ10|PGRMC1|SIGMAR1|SLC6A2|SLC6A4,neurology/psychiatry,depression
+alfacalcidol,0.25529808,0.038637996,Launched,vitamin D receptor agonist,CYP27B1|VDR,endocrinology,vitamin D deficiency
+levalbuterol,0.33490974,0.03788399,Launched,adrenergic receptor agonist,ADRB2,pulmonary,bronchospasm
+betamethasone-acetate,0.026166,0.037685335,Launched,glucocorticoid receptor agonist,NR3C1,dermatology,corticosteroid-responsive dermatoses
+levonorgestrel,0.077542275,0.036339868,Launched,estrogen receptor agonist|glucocorticoid receptor antagonist|progesterone receptor agonist|progesterone receptor antagonist,PGR,endocrinology,contraceptive
+fluoxetine,0.10130864,0.036143124,Launched,selective serotonin reuptake inhibitor (SSRI),ANO1|HTR2B|SLC6A4,neurology/psychiatry,depression|obsessive compulsive disorder (OCD)|bulimia nervosa|panic disorders|bipolar disorder
+lomerizine,0.39477286,0.03589934,Launched,calcium channel blocker,CACNA1B|SCN5A,neurology/psychiatry,migraine headache
+cisplatin,0.13856539,0.03570383,Launched,DNA alkylating agent|DNA synthesis inhibitor,XIAP,oncology,testicular carcinoma|ovarian cancer|bladder cancer
+ranolazine,0.11067176,0.03512957,Launched,sodium channel blocker,SCN10A|SCN9A,cardiology,chronic stable angina
+dyclonine,0.044993885,0.034695752,Launched,sodium channel blocker,SCN10A|SCN5A,neurology/psychiatry,local anesthetic
+palbociclib,0.3452497,0.03421448,Launched,CDK inhibitor,CDK4|CDK6,oncology,breast cancer
+terbinafine,0.04441638,0.033179965,Launched,fungal squalene epoxidase inhibitor,SQLE,infectious disease,tinea pedis|tinea cruris|tinea corporis
+saquinavir,0.1471863,0.03309036,Launched,HIV protease inhibitor,CYP3A4,infectious disease,human immunodeficiency virus (HIV-1)
+fludrocortisone-acetate,0.041566953,0.03210114,Launched,,NR3C2,endocrinology,Addison's disease|adrenogenital syndrome
+cetirizine,0.12001758,0.03099009,Launched,histamine receptor antagonist,HRH1,allergy,allergic rhinitis
+pimozide,0.13583799,0.030759044,Launched,dopamine receptor antagonist,CACNA1I|CALM1|DRD1|DRD2|DRD3|DRD4|DRD5|HRH1|HTR1A|HTR2A|KCNA10|KCNH2,neurology/psychiatry,Tourette's disorder
+gefitinib,0.06665976,0.0304133,Launched,EGFR inhibitor,EGFR,oncology,non-small cell lung cancer (NSCLC)
+mianserin,0.065990075,0.03026567,Launched,serotonin receptor antagonist,ADRA1A|ADRA1B|ADRA1D|HRH1|HRH2|HTR2A|HTR2B|HTR2C|HTR6|HTR7,neurology/psychiatry,depression
+diazoxide,0.064697824,0.030061353,Launched,potassium channel activator,ATP1A1|CA1|CA2|KCNJ11|KCNJ8|KCNMA1|SLC12A3,endocrinology,hypoglycemia
+flunisolide,0.19008416,0.029906552,Launched,cytochrome P450 inhibitor,NR3C1,allergy,allergic rhinitis
+nelfinavir,0.25884524,0.02958168,Launched,HIV protease inhibitor,CYP1A2|CYP2B6|CYP2C19|CYP2C9|CYP2D6|CYP3A4|CYP3A7,infectious disease,human immunodeficiency virus (HIV-1)
+dantrolene,0.11659603,0.02817173,Launched,calcium channel blocker,RYR1|RYR3,neurology/psychiatry|endocrinology,spasms|malignant hyperthermia (MH)
+diphemanil,0.0024050921,0.027160235,Launched,acetylcholine receptor antagonist,CHRM3,neurology/psychiatry,spasms
+brimonidine,0.05268275,0.02689869,Launched,adrenergic receptor agonist,ADRA2A|ADRA2B|ADRA2C,ophthalmology,intraocular pressure|glaucoma|ocular hypertension
+talniflumate,0.068798035,0.02687183,Launched,cyclooxygenase inhibitor,CLCA1,neurology/psychiatry,pain relief
+5-aminolevulinic-acid,0.08448734,0.026598066,Launched,oxidizing agent,ALAD,oncology|dermatology,glioma|actinic keratosis (AK)
+phenelzine,0.17977694,0.026126683,Launched,monoamine oxidase inhibitor,ABAT|AOC3|GAD2|GPT|GPT2|MAOA|MAOB|SLC6A2|SLC6A3|SLC6A4,neurology/psychiatry,depression
+mosapride,0.030938074,0.025778793,Launched,serotonin receptor agonist,HTR4,gastroenterology,hypertrophic gastritis (GHG)|gastroesophageal reflux disease (GERD)|dyspepsia|irritable bowel syndrome
+nalbuphine,0.09451796,0.025729425,Launched,opioid receptor agonist|opioid receptor antagonist,OPRD1|OPRK1|OPRM1,neurology/psychiatry,pain relief
+dactinomycin,1.446454,0.025659502,Launched,RNA polymerase inhibitor,POLR2A,oncology,testicular carcinoma|Wilm's tumor|rhabdomyosarcoma|Ewing's sarcoma|gestational trophoblastic disease (GTD)
+dopamine,0.05278257,0.025647847,Launched,dopamine receptor agonist,DBH|DRD1|DRD2|DRD3|DRD4|DRD5|HTR1A|HTR7|SLC6A2|SLC6A3|SLC6A4,cardiology|neurology/psychiatry,ventricular arrhythmias|depression|headache|tremors
+ticlopidine,0.13744476,0.025427371,Launched,purinergic receptor antagonist,P2RY12,hematology|neurology/psychiatry,thrombosis|stroke
+flutamide,0.0829607,0.025343359,Launched,androgen receptor antagonist,AHR|AR,oncology,prostate cancer
+norepinephrine,0.0007080883,0.022558093,Launched,adrenergic receptor agonist,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C|ADRB1|ADRB2|ADRB3|PAH|SLC18A1|SLC18A2,cardiology|allergy|neurology/psychiatry,hypertension|urticaria|headache|seasonal affective disorder
+dorzolamide,0.03755128,0.021812655,Launched,carbonic anhydrase inhibitor,CA1|CA12|CA14|CA2|CA4|CA7,ophthalmology,intraocular pressure|glaucoma
+diclofenamide,0.181524,0.021593153,Launched,carbonic anhydrase inhibitor,CA1|CA12|CA2|CA4|CA7,ophthalmology|neurology/psychiatry,glaucoma|epilepsy
+baclofen,0.51373893,0.021063596,Launched,benzodiazepine receptor agonist,GABBR1|GABBR2|KCTD12|KCTD16|KCTD8,neurology/psychiatry,multiple sclerosis|spasms
+zolmitriptan,0.09620488,0.020593807,Launched,serotonin receptor agonist,HTR1A|HTR1B|HTR1D|HTR1E|HTR1F,neurology/psychiatry,migraine headache
+spironolactone,0.04246922,0.020026594,Launched,mineralocorticoid receptor antagonist,AR|CACNA1A|CACNA1B|CACNA1C|CACNA1D|CACNA1F|CACNA1G|CACNA1H|CACNA1I|CACNA1S|CACNA2D1|CACNA2D2|CACNA2D3|CACNB1|CACNB2|CACNB3|CACNB4|CACNG1|CYP11B2|NR3C1|NR3C2|PGR|SHBG,endocrinology|cardiology|gastroenterology|rheumatology,hyperaldosteronism|congestive heart failure|hepatic cirrhosis|nephrotic syndrome|hypertension|hypokalemia
+vardenafil,0.055471927,0.019907344,Launched,phosphodiesterase inhibitor,PDE5A|PDE6G|PDE6H,urology,erectile dysfunction
+fluocinonide,0.025895834,0.019814227,Launched,glucocorticoid receptor agonist,NR3C1|SERPINA6|SMO,dermatology,seborrheic dermatitis|eczema
+telmisartan,0.112391934,0.017905056,Launched,angiotensin receptor antagonist,AGTR1|PPARG,cardiology,hypertension
+nintedanib,0.1518106,0.016796947,Launched,FGFR inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4|FLT1|FLT4|KDR|PDGFRA|PDGFRB,pulmonary,idiopathic pulmonary fibrosis (IPF)
+riluzole,0.10203733,0.016654298,Launched,glutamate inhibitor,KCNK10|KCNK2|KCNK4|KCNN4|SCN10A|SCN11A|SCN1A|SCN2A|SCN3A|SCN4A|SCN5A|SCN7A|SCN8A|SCN9A|SLC7A11,neurology/psychiatry,amyotrophic lateral sclerosis (ALS)
+rifapentine,0.08118757,0.016180981,Launched,RNA polymerase inhibitor,CYP2C8|CYP2C9|CYP3A4,infectious disease,tuberculosis
+methylene-blue,0.34788963,0.015805095,Launched,guanylyl cyclase inhibitor|nitric oxide production inhibitor,ACHE,hematology,methemoglobinemia
+procaterol,0.2804917,0.014697462,Launched,adrenergic receptor agonist,ADRB2,pulmonary,asthma
+naltrexone,0.058829933,0.014352359,Launched,opioid receptor antagonist,OPRD1|OPRK1|OPRM1|SIGMAR1,neurology/psychiatry,abstinence from alcohol
+lamotrigine,0.08950923,0.013305578,Launched,serotonin receptor antagonist|sodium channel blocker,SCN10A|SCN11A|SCN1A|SCN2A|SCN3A|SCN4A|SCN5A|SCN7A|SCN8A|SCN9A,neurology/psychiatry,epilepsy|bipolar disorder
+ketotifen,0.0782746,0.013268795,Launched,histamine receptor agonist|leukotriene receptor antagonist|phosphodiesterase inhibitor,HRH1,neurology/psychiatry,itching
+tibolone,0.056990206,0.013204053,Launched,androgen receptor agonist|estrogen receptor agonist|progesterone receptor agonist,ESR1,obstetrics/gynecology,endometriosis
+tetramisole,0.08551514,0.012880415,Launched,immunostimulant,ALPPL2|CHRNA3,infectious disease,gastrointestinal parasites
+proxymetacaine,0.02213411,0.012366153,Launched,sodium channel blocker,SCN10A|SCN5A,neurology/psychiatry,anesthetic
+sulindac,0.016811859,0.011877754,Launched,cyclooxygenase inhibitor,AKR1B1,rheumatology,osteoarthritis|rheumatoid arthritis|ankylosing spondylitis
+mitotane,0.073531464,0.011853758,Launched,antineoplastic agent,CYP11A1|CYP11B1|ESR1,oncology,adrenal cortical carcinoma
+formoterol,0.12563583,0.011181071,Launched,adrenergic receptor agonist,ADRB2,pulmonary,asthma|chronic obstructive pulmonary disease (COPD)|bronchospasm
+nilotinib,0.023947483,0.010652088,Launched,Abl kinase inhibitor|Bcr-Abl kinase inhibitor,ABL1|KIT,hematologic malignancy,chronic myeloid leukemia (CML)
+trichlormethiazide,0.11636607,0.010479532,Launched,chloride channel blocker,PTGS1|PTGS2|SLC12A1,cardiology,hypertension|edema
+cyproheptadine,0.26600397,0.010327134,Launched,histamine receptor antagonist,ADRA1A|ADRA1B|ADRA1D|CHRM1|CHRM2|CHRM3|HRH1|HTR2A|HTR2C|HTR6|HTR7,allergy|otolaryngology|ophthalmology|dermatology,allergic rhinitis|vasomotor rhinitis|conjunctivitis|urticaria|dermatographism
+mercaptopurine,0.054548003,0.010094967,Launched,immunosuppressant|protein synthesis inhibitor|purine antagonist,HPRT1|IMPDH1|IMPDH2|PPAT,hematologic malignancy,acute lymphoblastic leukemia (ALL)
+raltitrexed,0.056263197,0.009507269,Launched,thymidylate synthase inhibitor,FPGS|TYMS,oncology,mesothelioma
+erlotinib,0.17057383,0.009181127,Launched,EGFR inhibitor,EGFR|NR1I2,oncology,non-small cell lung cancer (NSCLC)|pancreatic cancer
+ibrutinib,0.15252134,0.008704492,Launched,Bruton's tyrosine kinase (BTK) inhibitor,BLK|BMX|BTK,hematologic malignancy,chronic lymphocytic leukemia (CLL)|mantle cell lymphoma (MCL)|Waldenstrom's macroglobulinemia (WM)
+erythromycin,0.038319446,0.008616626,Launched,NFkB pathway inhibitor,MLNR,infectious disease,listeria|respiratory tract infections|skin infections|syphilis|amebiasis|pelvic inflammatory disease|chlamydia|diphtheria|erythrasma
+metolazone,0.0021244446,0.008039882,Launched,carbonic anhydrase inhibitor,SLC12A3,cardiology,edema|hypertension
+triclabendazole,0.17476219,0.0077158213,Launched,microtubule inhibitor,DNMT1,infectious disease,tapeworm
+clomifene,0.03490209,0.007577315,Launched,estrogen receptor antagonist,ESR1,obstetrics/gynecology,infertility
+scopolamine,0.036738843,0.0067025325,Launched,acetylcholine receptor antagonist,CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|SI,neurology/psychiatry|gastroenterology,motion sickness|vomiting|nausea
+prednisolone-acetate,0.25956026,0.0063759238,Launched,glucocorticoid receptor agonist,NR3C1,ophthalmology|dermatology|infectious disease,conjunctivitis|rosacea|punctate keratitis|shingles|iritis|cyclitis
+oxprenolol,0.13538086,0.006089896,Launched,adrenergic receptor antagonist,ADRB1,cardiology,angina pectoris|hypertension|cardiac arrythmia
+floxuridine,0.31612107,0.005974464,Launched,DNA synthesis inhibitor,TYMS,oncology,colorectal cancer
+varenicline,0.061007693,0.005753398,Launched,acetylcholine receptor agonist,CHRNA3|CHRNA4|CHRNA6|CHRNA7,neurology/psychiatry,smoking cessation
+pilocarpine,0.06757228,0.0047479225,Launched,acetylcholine receptor agonist,CHRM1|CHRM2|CHRM3|CHRM4|CHRM5,ophthalmology|cardiology,glaucoma|hypertension
+pancuronium,0.07943122,0.0046892166,Launched,acetylcholine receptor antagonist,CHRM2|CHRM3|CHRNA1|CHRNA2,critical care|neurology/psychiatry,endotracheal intubation|muscle relaxant
+propentofylline,0.022499498,0.004627928,Launched,adenosine reuptake inhibitor|phosphodiesterase inhibitor,PDE1A,neurology/psychiatry,stroke
+felbamate,0.053066507,0.004503846,Launched,glutamate receptor antagonist,GRIN1|GRIN2A|GRIN2B|GRIN2C|GRIN2D|GRIN3A|GRIN3B,neurology/psychiatry,epilepsy
+ibuprofen-(S),0.1327143,0.004393518,Launched,cyclooxygenase inhibitor,ASIC1|PTGS1|PTGS2|SLC5A8,neurology/psychiatry,pain relief
+nafcillin,0.08469327,0.0033075623,Launched,bacterial cell wall synthesis inhibitor,CYP1A2|CYP3A4|SLC22A6,infectious disease,gram-positive bacterial infections
+tenoxicam,0.066577375,0.0031743348,Launched,cyclooxygenase inhibitor,PTGS1|PTGS2,rheumatology|orthopedics,rheumatoid arthritis|osteoarthritis|ankylosing spondylitis|tendinitis|bursitis|periarthritis
+dihydroergotamine,0.093050264,0.00238657,Launched,serotonin receptor agonist,ADRA2A|DRD2|HTR1B|HTR1D|HTR1E|HTR1F|HTR2B|HTR7,neurology/psychiatry,migraine headache
+masitinib,0.000916902,0.0020928923,Launched,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|SRC inhibitor,FGFR3|KIT|PDGFRA|PDGFRB,dermatology,mastocytoma
+SN-38,0.59454113,0.0015547872,Launched,topoisomerase inhibitor,TOP1,oncology,colorectal cancer
+auranofin,0.6215215,0.00049511343,Launched,NFkB pathway inhibitor,IKBKB|PRDX5|TRPA1,rheumatology,rheumatoid arthritis
+naloxone,0.050277933,0.00016273744,Launched,opioid receptor antagonist,CREB1|ESR1|OPRD1|OPRK1|OPRM1|TLR4,pulmonary,respiratory depression
