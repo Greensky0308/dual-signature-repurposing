@@ -1,0 +1,48 @@
+{
+  "n_perm": 1000,
+  "seed": 20260925,
+  "gene_universe": 12328,
+  "signature_sizes_effective": {
+    "hcc_up": 141,
+    "hcc_down": 138,
+    "hf_up": 21,
+    "hf_down": 19
+  },
+  "n_trt_cp_profiles": 205034,
+  "n_compound_groups": 19811,
+  "n_compounds_annotated": 2947,
+  "observed": {
+    "profile_p_hcc_pos": 0.5501282714086444,
+    "profile_p_hf_pos": 0.5055698079342938,
+    "profile_independence_product": 0.27812824451529344,
+    "dual_compounds": 867,
+    "dual_rate": 0.2941974889718358,
+    "reproduced_manuscript_867": true
+  },
+  "null_dual": {
+    "mean": 738.226,
+    "sd": 200.5593253054242,
+    "median": 729.0,
+    "q025": 379.95,
+    "q975": 1162.125,
+    "min": 206,
+    "max": 1430
+  },
+  "p_dual_count": 0.25574425574425574,
+  "enrichment_ratio_vs_null": 1.1744370964989042,
+  "dual_rate_null_mean": 0.25050084832032576,
+  "null_profile_p": {
+    "hcc_mean": 0.5002490878105164,
+    "hcc_sd": 0.03267603740096092,
+    "hf_mean": 0.49963513016700745,
+    "hf_sd": 0.030692962929606438
+  },
+  "arm_pvalue_calibration": {
+    "n_annotated": 2947,
+    "hcc_p_lt_0.05": 1335,
+    "hf_p_lt_0.05": 201,
+    "both_p_lt_0.05": 104,
+    "expected_uniform_each_arm": 147.35,
+    "expected_uniform_both_if_independent": 7.3675
+  }
+}

@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.py[cod]
+
+# pipeline outputs
+output/
+figures/
+tables/
+supplementary/
+
+# inputs that are not committed (see README)
+large_inputs/
+downloads/
+raw/
+*.part
+
+# Broad Hub file: obtained separately, not redistributed
+data/repurposing_drugs_*.txt

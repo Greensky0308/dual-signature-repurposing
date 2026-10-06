@@ -1,0 +1,183 @@
+{
+  "primary": {
+    "n_groups": 19811,
+    "named": 3935,
+    "dual_named": 1139,
+    "dual_cid": 867,
+    "touchstone": 384,
+    "final": 118,
+    "classes": [
+      {
+        "mechanism_class": "HDAC inhibitor",
+        "n": 2,
+        "members": "belinostat; panobinostat"
+      },
+      {
+        "mechanism_class": "Tubulin inhibitor",
+        "n": 2,
+        "members": "mebendazole; vindesine"
+      },
+      {
+        "mechanism_class": "Topoisomerase inhibitor",
+        "n": 1,
+        "members": "SN-38"
+      },
+      {
+        "mechanism_class": "CDK inhibitor",
+        "n": 1,
+        "members": "palbociclib"
+      },
+      {
+        "mechanism_class": "Proteasome inhibitor",
+        "n": 1,
+        "members": "ixazomib"
+      },
+      {
+        "mechanism_class": "ATP1A1 target",
+        "n": 1,
+        "members": "artemether"
+      }
+    ],
+    "cardiac_glycosides_in_touchstone": [
+      "cinobufagin",
+      "sarmentogenin",
+      "strophanthidin"
+    ],
+    "enrichment": [
+      {
+        "chain": "primary",
+        "mechanism_class": "HDAC inhibitor",
+        "n_library": 20,
+        "n_candidates": 2,
+        "odds_ratio": 18.845785440613028,
+        "p": 0.0062311888242937334,
+        "members": "belinostat; panobinostat",
+        "padj": 0.0186935664728812
+      },
+      {
+        "chain": "primary",
+        "mechanism_class": "Tubulin inhibitor",
+        "n_library": 20,
+        "n_candidates": 2,
+        "odds_ratio": 18.845785440613028,
+        "p": 0.0062311888242937334,
+        "members": "mebendazole; vindesine",
+        "padj": 0.0186935664728812
+      },
+      {
+        "chain": "primary",
+        "mechanism_class": "Proteasome inhibitor",
+        "n_library": 3,
+        "n_candidates": 1,
+        "odds_ratio": 84.14957264957265,
+        "p": 0.017763531314607495,
+        "members": "ixazomib",
+        "padj": 0.03552706262921499
+      },
+      {
+        "chain": "primary",
+        "mechanism_class": "ATP1A1 target",
+        "n_library": 10,
+        "n_candidates": 1,
+        "odds_ratio": 18.693257359924026,
+        "p": 0.058004308650134846,
+        "members": "artemether",
+        "padj": 0.08700646297520227
+      },
+      {
+        "chain": "primary",
+        "mechanism_class": "CDK inhibitor",
+        "n_library": 17,
+        "n_candidates": 1,
+        "odds_ratio": 10.511217948717949,
+        "p": 0.09660988236261979,
+        "members": "palbociclib",
+        "padj": 0.1126709816161003
+      },
+      {
+        "chain": "primary",
+        "mechanism_class": "Topoisomerase inhibitor",
+        "n_library": 20,
+        "n_candidates": 1,
+        "odds_ratio": 8.850202429149798,
+        "p": 0.11267098161610031,
+        "members": "SN-38",
+        "padj": 0.1126709816161003
+      }
+    ]
+  },
+  "sensitivity": {
+    "n_groups": 19811,
+    "named": 3935,
+    "dual": 1139,
+    "target": 483,
+    "final": 224,
+    "cardiac_glycosides": [
+      "digitoxin"
+    ],
+    "enrichment": [
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "ATP1A1 target",
+        "n_library": 10,
+        "n_candidates": 5,
+        "odds_ratio": 89.41552511415524,
+        "p": 4.253202701732339e-08,
+        "members": "artemether; ciclopirox; diazoxide; digitoxin; etacrynic-acid",
+        "padj": 2.551921621039403e-07
+      },
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "Topoisomerase inhibitor",
+        "n_library": 20,
+        "n_candidates": 5,
+        "odds_ratio": 29.789954337899545,
+        "p": 2.385847181449558e-06,
+        "members": "SN-38; amsacrine; doxorubicin; epirubicin; mitoxantrone",
+        "padj": 4.771694362899116e-06
+      },
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "Tubulin inhibitor",
+        "n_library": 20,
+        "n_candidates": 5,
+        "odds_ratio": 29.789954337899545,
+        "p": 2.385847181449558e-06,
+        "members": "docetaxel; mebendazole; vinblastine; vincristine; vindesine",
+        "padj": 4.771694362899116e-06
+      },
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "HDAC inhibitor",
+        "n_library": 20,
+        "n_candidates": 3,
+        "odds_ratio": 15.626829917487356,
+        "p": 0.001410525044311284,
+        "members": "belinostat; panobinostat; vorinostat",
+        "padj": 0.002115787566466926
+      },
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "CDK inhibitor",
+        "n_library": 17,
+        "n_candidates": 2,
+        "odds_ratio": 11.754954954954956,
+        "p": 0.015479575306576185,
+        "members": "dinoprost; palbociclib",
+        "padj": 0.018575490367891422
+      },
+      {
+        "chain": "sensitivity",
+        "mechanism_class": "Proteasome inhibitor",
+        "n_library": 3,
+        "n_candidates": 0,
+        "odds_ratio": 0.0,
+        "p": 1.0,
+        "members": "",
+        "padj": 1.0
+      }
+    ]
+  },
+  "n_profiles": 473647,
+  "annotation_source": "Broad Drug Repurposing Hub, repurposing_drugs_20200324.txt"
+}
